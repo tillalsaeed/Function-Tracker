@@ -4,7 +4,7 @@
 Plugin Name: Unused Functions Tracker
 Description: Tracks custom functions in a theme that are not hooked into any WordPress hooks and lists the files they are in.
 Version: 1.0
-Author: Your Name
+Author: Tillal Saeed
 */
 
 add_action('admin_menu', 'uft_add_admin_menu');
